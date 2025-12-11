@@ -1,0 +1,30 @@
+/* Minimal styles - you can replace with your original style.css contents */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial;
+  margin: 0;
+  padding: 0;
+  background: #f5f7fa;
+  color: #222;
+}
+
+.app {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 16px;
+}
+
+.badge {
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.badge-header h2 {
+  margin: 0 0 8px 0;
+}
+
+.badge-body p {
+  margin: 4px 0;
+}
