@@ -2,6 +2,7 @@
   "name": "digital-badge-tsx",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://johnwick-dev-fight.github.io/digital-badge-tsx",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
